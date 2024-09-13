@@ -46,7 +46,7 @@ This repository contains a collection of Jupyter Notebooks designed to cover var
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/python-learning-notebooks.git
+   git clone https://github.com/Chandrikapeela/python_into_notes.git
    cd python-learning-notebooks
    ```
 
